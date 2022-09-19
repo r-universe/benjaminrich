@@ -1,13 +1,5 @@
 [
   {
-    "package": "linpk",
-    "oncran": true
-  },
-  {
-    "package": "mappings",
-    "oncran": true
-  },
-  {
     "package": "table1",
     "oncran": true
   },
