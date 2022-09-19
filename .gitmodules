@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "linpk"]
+	path = linpk
+	url = https://github.com/benjaminrich/linpk
+	shallow = true
+	registered = true
+[submodule "mappings"]
+	path = mappings
+	url = https://github.com/benjaminrich/mappings
+	shallow = true
+	registered = true
 [submodule "table1"]
 	path = table1
 	url = https://github.com/benjaminrich/table1
