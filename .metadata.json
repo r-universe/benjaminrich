@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "pmxpartab",
+    "oncran": true
+  },
+  {
     "package": "table1",
     "oncran": true
   },

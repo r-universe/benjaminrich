@@ -13,6 +13,11 @@
 	url = https://github.com/benjaminrich/mappings
 	shallow = true
 	registered = true
+[submodule "pmxpartab"]
+	path = pmxpartab
+	url = https://github.com/benjaminrich/pmxpartab
+	shallow = true
+	registered = true
 [submodule "table1"]
 	path = table1
 	url = https://github.com/benjaminrich/table1
