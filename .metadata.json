@@ -1,10 +1,10 @@
 [
   {
-    "package": "mappings",
+    "package": "linpk",
     "oncran": true
   },
   {
-    "package": "linpk",
+    "package": "mappings",
     "oncran": true
   },
   {
